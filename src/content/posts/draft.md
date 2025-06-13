@@ -2,7 +2,7 @@
 title: Draft Example
 published: 2022-07-01
 tags: [Markdown, Blogging, Demo]
-category: Examples
+category: 使用教程
 draft: true
 ---
 

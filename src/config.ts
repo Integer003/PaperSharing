@@ -1,6 +1,6 @@
 import type {
 	ExpressiveCodeConfig,
-	LicenseConfig,
+	// LicenseConfig,
 	NavBarConfig,
 	ProfileConfig,
 	SiteConfig,
@@ -77,11 +77,11 @@ export const profileConfig: ProfileConfig = {
 	],
 };
 
-export const licenseConfig: LicenseConfig = {
-	enable: true,
-	name: "CC BY-NC-SA 4.0",
-	url: "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-};
+// export const licenseConfig: LicenseConfig = {
+// 	enable: true,
+// 	name: "CC BY-NC-SA 4.0",
+// 	url: "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+// };
 
 export const expressiveCodeConfig: ExpressiveCodeConfig = {
 	// Note: Some styles (such as background color) are being overridden, see the astro.config.mjs file.
