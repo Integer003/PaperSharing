@@ -1,7 +1,7 @@
 
 # Contributing
 
-Thank you for your interest in contributing!
+Thank you for your interest in sharing your paper reading notes!
 
 ## Before You Start
 
