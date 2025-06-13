@@ -1,10 +1,10 @@
 ---
-title: Simple Guides for Fuwari
+title: Simple Guides for This Repo
 published: 2024-04-01
 description: "How to use this blog template."
 image: "./cover.jpeg"
-tags: ["Fuwari", "Blogging", "Customization"]
-category: 使用教程
+tags: ["Blogging", "Customization"]
+category: Contributor Guide
 draft: false
 ---
 
