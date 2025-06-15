@@ -16,7 +16,7 @@
 3. Run `pnpm new-post <filename>` to create a new post and edit it in `src/content/posts/`.
 4. Run `pnpm dev` to start local dev server at `localhost:4321`.
 5. Run `pnpm check` to check for errors.
-6. Run ``pnpm format` to format your code.
+6. Run `pnpm format` to format your code.
 7. Submit a pull request.
 
 ## 📝 Frontmatter of Posts
