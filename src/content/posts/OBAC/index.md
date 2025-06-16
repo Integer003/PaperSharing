@@ -1,12 +1,12 @@
 ---
 title: OBAC
 published: 2025-06-15
-description: ''
+description: 'Offline-Boosted Actor-Critic: Adaptively Blending Optimal Historical Behaviors in Deep Off-Policy RL'
 image: ''
-tags: []
-category: ''
+tags: [TXC, RL]
+category: 'Paper'
 draft: false 
-lang: ''
+lang: 'zh_CN'
 ---
 
 # OBAC: Offline-Boosted Actor-Critic: Adaptively Blending Optimal Historical Behaviors in Deep Off-Policy RL
