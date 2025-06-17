@@ -1,6 +1,6 @@
 ---
 title: LLaVA-CoT
-published: 2025-06-13
+published: 2025-06-17
 description: 'Let Vision Language Models Reason Step-by-Step'
 image: ''
 tags: [TXC, LLM]
