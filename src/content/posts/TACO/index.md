@@ -31,10 +31,13 @@ $$
 
 一个理论保证：
 
-Theorem 3.1: 设 $K\in \mathbb N^+$, $\mathbb J_\text{TACO}(\phi, \psi) = I(Z_{t+K};[Z_t, U_t, \cdots, U_{t+K-1}])$. 若优化后得到的 $\phi$, $\psi$ 使 $\mathbb J_\text{TACO}(\phi, \psi)$ 达到最大值，那么对任意两个状态-动作对 $(s_1, a_1), (s_2, a_2)$，只要 $\phi(s_1) = \phi(s_2)$, $\psi(a_1) = \psi(a_2)$，就有
+:::note[Theorem 3.1]
+设 $K\in \mathbb N^+$, $\mathbb J_\text{TACO}(\phi, \psi) = I(Z_{t+K};[Z_t, U_t, \cdots, U_{t+K-1}])$. 若优化后得到的 $\phi$, $\psi$ 使 $\mathbb J_\text{TACO}(\phi, \psi)$ 达到最大值，那么对任意两个状态-动作对 $(s_1, a_1), (s_2, a_2)$，只要 $\phi(s_1) = \phi(s_2)$, $\psi(a_1) = \psi(a_2)$，就有
 $$
 Q^*(s_1, a_1) = Q^*(s_2, a_2)
 $$
+:::
+
 解释：上述定理说明，如果我们的 TACO objective 最大化了，那么我们得到的两个encoder $\phi, \psi$ are sufficient for making optimal decisions（我有点感觉这个定理是硬生生搬过来的，说明了一些事情，但不关键）。
 
 #### 3.2 TACO implementation
