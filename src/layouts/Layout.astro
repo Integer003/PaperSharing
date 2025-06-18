@@ -146,6 +146,16 @@ const bannerOffset =
 		<slot name="head"></slot>
 
 		<link rel="alternate" type="application/rss+xml" title={profileConfig.name} href={`${Astro.site}rss.xml`}/>
+		
+		<!-- Google tag (gtag.js) -->
+		<script is:inline>
+			// Google Analytics tag
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){ dataLayer.push(arguments); }
+			gtag('js', new Date());
+			gtag('config', 'G-D6W6HVZEB6');
+		</script>
+		<script async src="https://www.googletagmanager.com/gtag/js?id=G-D6W6HVZEB6"></script>
 
 	</head>
 	<body class=" min-h-screen transition " class:list={[{"lg:is-home": isHomePage, "enable-banner": enableBanner}]}
