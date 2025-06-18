@@ -1,6 +1,6 @@
 ---
 title: TACO
-published: 2025-05-30
+published: 2025-06-18
 description: 'Temporal Latent Action Driven Contrastive Loss for Visual Reinforcement Learning'
 image: ''
 tags: [TXC, RL, Visual RL]

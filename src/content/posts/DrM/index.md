@@ -1,6 +1,6 @@
 ---
 title: DrM
-published: 2025-06-14
+published: 2025-06-13
 description: 'Mastering Visual RL through Dormant Ratio Minimization'
 image: ''
 tags: [TXC, RL]
