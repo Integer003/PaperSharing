@@ -1,6 +1,6 @@
 ---
 title: DP3
-published: 2025-06-13
+published: 2025-06-25
 description: '3D Diffusion Policy'
 image: ''
 tags: [TXC, IL, Diffusion Policy]
